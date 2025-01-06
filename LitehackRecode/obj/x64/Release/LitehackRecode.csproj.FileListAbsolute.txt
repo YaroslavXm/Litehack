@@ -1,0 +1,12 @@
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\bin\x64\Release\LitehackRecode.exe.config
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\bin\x64\Release\LitehackRecode.exe
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\bin\x64\Release\LitehackRecode.pdb
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\obj\x64\Release\LitehackRecode.csproj.AssemblyReference.cache
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\obj\x64\Release\LitehackRecode.Form1.resources
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\obj\x64\Release\LitehackRecode.Properties.Resources.resources
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\obj\x64\Release\LitehackRecode.csproj.GenerateResource.cache
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\obj\x64\Release\LitehackRecode.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\obj\x64\Release\Litehack.F0D8F887.Up2Date
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\obj\x64\Release\LitehackRecode.exe
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\obj\x64\Release\LitehackRecode.pdb
+C:\Users\Yarik\source\repos\LitehackRecode\LitehackRecode\bin\x64\Release\ForlornApi.dll
